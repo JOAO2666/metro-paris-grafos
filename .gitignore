@@ -1,0 +1,9 @@
+# Binarios
+metro
+*.o
+*.exe
+*.out
+
+# Arquivos temporarios
+*.tmp
+.DS_Store
